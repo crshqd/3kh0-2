@@ -1,4 +1,4 @@
-[
+export default [
   {
     "link": "projects/1/index.html",
     "imgSrc": "projects/1/meta/apple-touch-icon.png",
