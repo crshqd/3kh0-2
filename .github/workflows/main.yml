@@ -7,8 +7,8 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: ls
-        run: ls
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Deploy to surge.sh mirror
         uses: dswistowski/surge-sh-action@v1
         with:
