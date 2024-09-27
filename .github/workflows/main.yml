@@ -1,0 +1,16 @@
+name: surge.sh mirror deploy
+
+on: push
+
+jobs:
+  my-job:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to surge.sh mirror
+        uses: dswistowski/surge-sh-action@v1
+        with:
+          domain: 'strangled-vines-92.surge.sh'
+          project: '.'
+          login: ${{ secrets.surge_login }}
+          token: ${{ secrets.surge_token }}
