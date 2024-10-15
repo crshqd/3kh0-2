@@ -55,11 +55,6 @@ export default [
     "title": "Basketball Stars"
   },
   {
-    "link": "projects/battleforgondor/index.html",
-    "imgSrc": "projects/battleforgondor/3557.jpg",
-    "title": "Battle for Gondor"
-  },
-  {
     "link": "projects/bigredbutton/index.html",
     "imgSrc": "projects/bigredbutton/bigredbutton.png",
     "title": "Big Red Button"
@@ -83,11 +78,6 @@ export default [
     "link": "projects/bloxors/index.html",
     "imgSrc": "projects/bloxors/block.png",
     "title": "Bloxors"
-  },
-  {
-    "link": "projects/boxhead2play/index.html",
-    "imgSrc": "projects/boxhead2play/boxhead2play.jpg",
-    "title": "Box Head"
   },
   {
     "link": "projects/breakingthebank/index.html",
@@ -143,11 +133,6 @@ export default [
     "link": "projects/craftmine/index.html",
     "imgSrc": "projects/craftmine/images/craftmine.png",
     "title": "CraftMine"
-  },
-  {
-    "link": "projects/creativekillchamber/index.html",
-    "imgSrc": "projects/creativekillchamber/creativekillchamber.jpg",
-    "title": "Creative Kill Chamber"
   },
   {
     "link": "projects/csgo-clicker/index.html",
@@ -300,11 +285,6 @@ export default [
     "title": "Getaway Shootout"
   },
   {
-    "link": "projects/gimme-the-airpod/index.html",
-    "imgSrc": "projects/gimme-the-airpod/img/logo.png",
-    "title": "Gimme the Airpod"
-  },
-  {
     "link": "projects/glass-city/index.html",
     "imgSrc": "projects/glass-city/image.png",
     "title": "Glass City"
@@ -365,11 +345,6 @@ export default [
     "title": "Impossible Quiz"
   },
   {
-    "link": "projects/interactivebuddy/index.html",
-    "imgSrc": "projects/interactivebuddy/interactivebuddy.jpg",
-    "title": "Interactive Buddy"
-  },
-  {
     "link": "projects/just-one-boss/index.html",
     "imgSrc": "projects/just-one-boss/pv1Gr5.png",
     "title": "Just One Boss"
@@ -378,11 +353,6 @@ export default [
     "link": "projects/kittencannon/index.html",
     "imgSrc": "projects/kittencannon/kittencannon.png",
     "title": "Kitten Cannon"
-  },
-  {
-    "link": "projects/krunker/index.html",
-    "imgSrc": "projects/krunker/img/krunker-io.jpg",
-    "title": "Krunker"
   },
   {
     "link": "projects/learntofly/index.html",
@@ -525,11 +495,6 @@ export default [
     "title": "Rolly Vortex"
   },
   {
-    "link": "projects/rooftop-snipers/index.html",
-    "imgSrc": "projects/rooftop-snipers/img/preview.png",
-    "title": "Rooftop Snipers"
-  },
-  {
     "link": "projects/sand-game/index.html",
     "imgSrc": "projects/sand-game/sand.png",
     "title": "Sand Game"
@@ -550,19 +515,9 @@ export default [
     "title": "Smash Carts"
   },
   {
-    "link": "projects/smokingbarrels/index.html",
-    "imgSrc": "projects/smokingbarrels/smokingbarrels.jpg",
-    "title": "Smoking Barrels"
-  },
-  {
     "link": "projects/snowbattle/index.html",
     "imgSrc": "projects/snowbattle/img/logo.png",
     "title": "Snowbattle"
-  },
-  {
-    "link": "projects/soldier-legend/index.html",
-    "imgSrc": "projects/soldier-legend/images/splash.jpeg",
-    "title": "Soilder Legend"
   },
   {
     "link": "projects/solitaire/index.html",
@@ -605,19 +560,9 @@ export default [
     "title": "Storm The House 2"
   },
   {
-    "link": "projects/superhot/index.html",
-    "imgSrc": "projects/superhot/hot.jpg",
-    "title": "Superhot"
-  },
-  {
     "link": "projects/swerve/index.html",
     "imgSrc": "projects/swerve/img/favicon.jpg",
     "title": "Swerve"
-  },
-  {
-    "link": "projects/tacticalassasin2/index.html",
-    "imgSrc": "projects/tacticalassasin2/tacticalassassin2.png",
-    "title": "Tactical Assassin 2"
   },
   {
     "link": "projects/tank-trouble-2/index.html",
@@ -703,11 +648,6 @@ export default [
     "link": "projects/webretro-local/index.html",
     "imgSrc": "projects/webretro-local/assets/icon204.png",
     "title": "Web Retro Local"
-  },
-  {
-    "link": "projects/wolf3d/index.html",
-    "imgSrc": "projects/wolf3d/art/wolf3d.png",
-    "title": "Wolfenstein 3D"
   },
   {
     "link": "projects/wordle/index.html",
