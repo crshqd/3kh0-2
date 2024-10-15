@@ -1,5 +1,10 @@
 export default [
   {
+    "link": "note/index.html",
+    "imgSrc": "note/icon.png",
+    "title": "Note"
+  },
+  {
     "link": "projects/1/index.html",
     "imgSrc": "projects/1/meta/apple-touch-icon.png",
     "title": "1"
